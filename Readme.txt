@@ -1,7 +1,11 @@
 Black vs. White Minigame
 
 
-Author's note at the bottom of page.
+
+
+Author's note-
+Hey, Danny here! This is an AI Grok and I made to play "The Lifer" minigame in Oakheart Highcourt, Rinascita for Wuthering Waves. At the moment, only the Black Shark and White Default are fully trained. You can load up the "Play.py" and enter the suggested starting positions, which is how it starts in the game, and select "Black Shark" in the dropdown. My AI will pick the best move to do, and whatever the computer in WuWa responds with, you can input into this program as White's move. Then my AI will pick the best move again. The program in WuWa is purposely written to not pick the best move, so you'll win pretty quickly. Anyways, this was just a fun project, and my first time using q tables to teach AI! All text below this are Grok-generated, and I'm not a programmer so I don't know what half of it means haha. If you're reading this, hope you have a fantastic day!
+
 
 
 Overview
@@ -139,7 +143,3 @@ Debug logs in mini.py and simulator.py help diagnose issues; share output for su
 
 
 
-
-
-Author's note-
-Hey, Danny here! This is an AI Grok and I made to play "The Lifer" minigame in Oakheart Highcourt, Rinascita for Wuthering Waves. At the moment, only the Black Shark and White Default are fully trained. You can load up the "Play.py" and enter the suggested starting positions, which is how it starts in the game, and select "Black Shark" in the dropdown. My AI will pick the best move to do, and whatever the computer in WuWa responds with, you can input into this program as White's move. Then my AI will pick the best move again. The program in WuWa is purposely written to not pick the best move, so you'll win pretty quickly. Anyways, this was just a fun project, and my first time using q tables to teach AI! 
